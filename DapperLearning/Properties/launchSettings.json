@@ -1,0 +1,14 @@
+﻿{  
+  "profiles": {
+    "DapperLearning": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "launchUrl": "swagger",
+      "applicationUrl": "https://localhost:7443;http://localhost:7080",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }   
+  }
+}
